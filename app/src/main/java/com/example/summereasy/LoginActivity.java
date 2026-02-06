@@ -18,7 +18,7 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
         setContentView(R.layout.login_page);
-
+    // GIT INITIALIZED
        // Initialize laView
         laView.setAnimation(R.raw.oo);
         laView.playAnimation();
