@@ -45,7 +45,7 @@ if errorlevel 1 (
 echo.
 
 echo ========================================
-echo Done!
+echo Done !
 echo ========================================
 pause
 
